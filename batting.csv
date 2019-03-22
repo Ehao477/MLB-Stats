@@ -1,12 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
-{\fonttbl\f0\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
 Tm,#Bat,BatAge,R/G,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,OPS+,TB,GDP,HBP,SH,SF,IBB,LOB\
 ARI,49,29.2,4.28,162,6157,5460,693,1283,259,50,176,658,79,25,560,1460,.235,.310,.397,.707,84,2170,110,52,38,45,36,1086\
 ATL,58,27.3,4.69,162,6251,5582,759,1433,314,29,175,717,90,36,511,1290,.257,.324,.417,.742,99,2330,99,66,49,43,53,1143\
